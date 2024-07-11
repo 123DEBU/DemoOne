@@ -37,7 +37,7 @@ public class LoginTest extends Base{
 	public void login(String email, String password, String result) throws IOException, InterruptedException {
           
 
-        System.out.println("jnffjewfojewfkewpfewofewfew");
+       
 
 		LandingPage landingPage = new LandingPage(driver);
 		Thread.sleep(2000);
