@@ -35,7 +35,7 @@ public class LoginTest extends Base{
 
 	@Test(dataProvider = "getData")
 	public void login(String email, String password, String result) throws IOException, InterruptedException {
-          
+          System.out.println("kjlsdfDDNN");
 
        
 
